@@ -27,7 +27,7 @@ Before you start the assessment, ensure that you have the following:
 a. Open your terminal.
 b. Run the following command to clone the repository:
    ```bash
-   git clone https://github.com/ankitatakale15-web/CandidateAssessmentQA.git
+   git clone <your-repo-url>
    ```
 c. Navigate into the project directory:
    ```bash
@@ -42,7 +42,7 @@ npm install
 ### Running the Application
 To run the application, execute:
 ```bash
-npm start
+cd client
 npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) to see the application.
