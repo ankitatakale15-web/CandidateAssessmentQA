@@ -1,0 +1,1 @@
+{  "name": "candidate-assessment-qa",  "version": "1.0.0",  "scripts": {    "dev": "concurrently 'npm run server' 'npm run client'",    "build": "echo 'Build scripts can be added here'"  },  "dependencies": {},  "devDependencies": {    "concurrently": "^6.0.0"  }}
